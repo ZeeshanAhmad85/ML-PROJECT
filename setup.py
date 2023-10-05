@@ -17,7 +17,7 @@ def get_requirements(filename: str) -> List[str]:
 
 
 setup(
-    name='ML-PROJECT',
+    name='ML_PROJECT',
     version='0.0.1',
    # description='SSD: Single Shot MultiBox Detector, in PyTorch',
     author='Zeeshan Ahmed',
